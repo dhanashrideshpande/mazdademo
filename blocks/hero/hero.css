@@ -61,7 +61,7 @@ main .hero img {
   height: 100%;
 }
 main .hero h6 a{
-    background-color: red;
+    background-color: #000;
     border-bottom-left-radius: 3px;
     border-bottom-right-radius: 3px;
     border-bottom-style: none;
