@@ -249,3 +249,18 @@ main .section {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+columns.block.columns-2-cols h2 {
+       font-size: 13px;
+       font-style: normal;
+       line-height: 26px;
+       font-weight: bold;
+       letter-spacing: 2.6px;
+}
+columns.block.columns-2-cols h3 {
+font-size: 20px;
+  font-style: normal;
+  line-height: 27px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  margin-bottom: 28px;
+}
