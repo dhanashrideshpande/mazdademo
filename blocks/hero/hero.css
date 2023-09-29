@@ -20,6 +20,18 @@ main .hero h1 {
   margin-right: auto;
   color: white;
 }
+main .hero h2{
+    color: rgb(255, 255, 255);
+    font-family: "Mazda Type", helvetica, arial, sans-serif;
+    font-feature-settings: "clig" 0, "liga" 0;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 2.8px;
+    line-height: 16px;
+    margin-top: 0px;
+    text-align: center;
+}
 
 main .hero picture {
   position: absolute;
