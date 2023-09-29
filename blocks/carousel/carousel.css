@@ -1,0 +1,33 @@
+.carousel > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.carousel img {
+  width: 100%;
+}
+
+.carousel > div > div {
+  order: 1;
+}
+
+.carousel > div > .carousel-img-col {
+  order: 0;
+}
+
+.carousel > div > .carousel-img-col img {
+  display: block;
+}
+
+@media (min-width: 900px) {
+  .carousel > div {
+    align-items: center;
+    flex-direction: unset;
+    gap: 32px;
+  }
+
+  .carousel > div > div {
+    flex: 1;
+    order: unset;
+  }
+}
