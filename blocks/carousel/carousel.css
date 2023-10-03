@@ -68,7 +68,12 @@
     padding-bottom: 0px;
     padding-left: 0px;
 }
-
+.section.carousel-mazda.carousel-container h3 a  {
+    float:right;
+}
+.section.carousel-mazda.carousel-container  h2 a {
+       float:left;
+        }
 .section.carousel-mazda.carousel-container h3 a , h2 a {
     color: #000;
     text-decoration: none;
