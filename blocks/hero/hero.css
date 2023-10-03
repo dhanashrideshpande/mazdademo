@@ -1,18 +1,25 @@
 /* block specific CSS goes here */
+main > .hero-container:nth-child(1) {
+  min-height: 100vh;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100vw;
+  z-index: -10;
+}
 
 main .hero-container > div {
   max-width: unset;
-  height: 100vh;
 }
-  
+
 main .hero-container {
   padding: 0;
 }
   
 main .hero {
   position: relative;
-  padding: 32px;
-  min-height: 300px;
+  /* padding: 32px; */
+  /* min-height: 300px; */
 }
 
 main .hero h1 {
@@ -45,13 +52,15 @@ main .hero h2{
     text-align: center;
 }
 
-main .hero picture {
-  position: absolute;
+main .hero picture > img {
+  /* position: absolute;
   z-index: -1;
   top: 0;
   left: 0;
   bottom: 0;
-  right: 0;
+  right: 0; */
+  min-height: 100vh !important;
+  width: 100vw;
   object-fit: cover;
   box-sizing: border-box;
 }

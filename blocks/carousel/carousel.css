@@ -1,3 +1,8 @@
+.carousel-container {
+  width: 100%;
+  background-color: #cdcdcd;
+}
+
 .carousel > div {
   display: flex;
   flex-direction: column;
