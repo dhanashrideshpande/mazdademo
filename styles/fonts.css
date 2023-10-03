@@ -1,4 +1,18 @@
 @font-face {
+    font-family: "Mazda Type", helvetica, arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/mazda-type-bold.woff2') format('woff2');
+}
+@font-face {
+    font-family: "Mazda Type", helvetica, arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/mazda-type-regular.woff2') format('woff2');
+}
+@font-face {
     font-family: roboto;
     font-style: normal;
     font-weight: 700;
