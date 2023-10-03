@@ -3,13 +3,25 @@
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(20%, 1fr));
   grid-gap: 16px;
 }
 
 .cards > ul > li {
   border: 1px solid var(--highlight-background-color);
-  background-color: var(--background-color)
+  background-color: var(--background-color);
+  padding: 2rem 1rem;
+}
+
+.cards > ul > li > div:nth-child(2) > h3 {
+  font-size: 1.2rem;
+  text-align: center;
+  letter-spacing: 0.1em;
+}
+
+.cards > ul > li > div > picture > img {
+  object-fit: contain;
+  max-height: 40px;
 }
 
 .cards .cards-card-body {
