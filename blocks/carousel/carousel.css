@@ -31,3 +31,14 @@
     order: unset;
   }
 }
+
+.carousel.block.carousel-2-cols h3, p {
+    color: rgb(16, 16, 16);
+    font-family: "Mazda Type", helvetica, arial, sans-serif;
+    font-feature-settings: "clig" 0, "liga" 0;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 3.6px;
+    line-height: 18px;
+
