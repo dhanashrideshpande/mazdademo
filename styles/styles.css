@@ -329,3 +329,7 @@ main .section.highlight {
 .section-mazda {
     background-color: #101010
 }
+
+.section four-cards cards-container{
+     text-align: center;
+}
