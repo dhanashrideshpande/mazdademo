@@ -312,6 +312,20 @@ main .section.highlight {
     margin-left: -2%;
 }
 
+.section-mazda p {
+     color: rgb(255, 255, 255);
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 28px;
+     margin-bottom: 28px;
+     margin-left: -22.4333px;
+     margin-right: -22.4333px;
+     margin-top: 0px;
+     text-align: center;
+     -moz-osx-font-smoothing: grayscale;
+}
+
 .section-mazda {
     background-color: #101010
 }
