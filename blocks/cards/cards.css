@@ -85,10 +85,10 @@
     text-decoration : none;
     background-color: transparent;
 }
-.section.columns-container {
+.section.accolades-cards.columns-container {
     background-color: #f4f4f4;
 }
-.section.columns-container h4  {
+.section.accolades-cards.columns-container .columns.block.columns-2-cols h4  {
     font-size: var(--heading-font-size-m);
     color: #101010;
     text-align: center;
@@ -99,7 +99,7 @@
     text-transform: uppercase;
  }
 
- .section.columns-container h5  {
+ .section.accolades-cards.columns-container .columns.block.columns-2-cols h5  {
      color: #101010;
      text-align: center;
      font-size: 14px;
@@ -108,7 +108,7 @@
      text-transform: uppercase;
   }
 
-columns.block.columns-2-cols p {
+.section.accolades-cards.columns-container .columns.block.columns-2-cols  p {
     font-size: 16px;
     font-style: normal;
     line-height: 28px;
