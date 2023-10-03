@@ -261,6 +261,16 @@ header nav .nav-sections ul > li > ul > li {
     flex: 0 1 auto;
     position: relative;
     font-weight: 500;
+    color: rgb(213, 213, 213);
+    font-family: "Mazda Type", helvetica, arial, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2.6px;
+    line-height: 30px;
+    list-style-image: none;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    position: relative;
   }
 
   header nav .nav-sections > ul > li > ul {
