@@ -68,12 +68,6 @@
     padding-bottom: 0px;
     padding-left: 0px;
 }
-.section.carousel-mazda.carousel-container h5 a  {
-    float:right;
-}
-.section.carousel-mazda.carousel-container  h4 a {
-       float:left;
-        }
 .section.carousel-mazda.carousel-container h5 a , h4 a {
     color: #000;
     text-decoration: none;
@@ -124,4 +118,18 @@
     text-decoration-style: solid;
     text-decoration-thickness: auto;
     text-transform: uppercase;
+}
+.section.carousel-mazda.carousel-container h4 a {
+    float: left;
+    margin: 20px 0px 0px 0px;
+}
+
+.section.carousel-mazda.carousel-container h5 a  {
+    float:right;
+}
+
+.carousel img {
+    width: 377px;
+    height: 216px;
+    float: right;
 }
