@@ -1,3 +1,7 @@
+.cards-container {
+  background-color: white;
+}
+
 .cards > ul {
   list-style: none;
   margin: 0;
@@ -11,6 +15,11 @@
   border: 1px solid var(--highlight-background-color);
   background-color: var(--background-color);
   padding: 2rem 1rem;
+}
+
+.cards > ul > li:hover {
+  background-color: black;
+  color: white;
 }
 
 .cards > ul > li > div:nth-child(2) > h3 {
