@@ -22,10 +22,20 @@
   color: white;
 }
 
+/* .cards > ul > li:hover .cards > ul > li > div:nth-child(2) > h3 {
+  background-color: black;
+  color: white;
+} */
+
 .cards > ul > li > div:nth-child(2) > h3 {
   font-size: 1.2rem;
   text-align: center;
   letter-spacing: 0.1em;
+}
+
+.cards > ul > li > div:nth-child(2) > h3 > a {
+  text-decoration: none;
+  color: inherit;
 }
 
 .cards > ul > li > div > picture > img {
