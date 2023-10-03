@@ -88,8 +88,7 @@
 .section.accolades-cards.columns-container {
     background-color: #f4f4f4;
 }
-.section.accolades-cards.columns-container .columns.block.columns-2-cols h4  {
-    font-size: var(--heading-font-size-m);
+.section.accolades-cards.columns-container h4  {
     color: #101010;
     text-align: center;
     padding-bottom: 20px;
