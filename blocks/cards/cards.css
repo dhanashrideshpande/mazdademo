@@ -50,3 +50,16 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+.section.imageandtext-four-card-layout.cards-container {
+     color: #ffffff;
+     background-color: #101010;
+     text-align: center;
+     padding-top: 40px;
+     padding-bottom: 20px;
+}
+
+.section.imageandtext-four-card-layout .cards > ul > li {
+    border: 1px solid var(--highlight-background-color);
+    background-color: #101010;
+    padding: 2rem 1rem;
+}
