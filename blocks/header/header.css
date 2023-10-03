@@ -1,9 +1,14 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: var(--background-color);
+/*  background-color: var(--background-color);
   width: 100%;
   z-index: 2;
-  position: fixed;
+  position: fixed;*/
+  background-color: #2b2b2b;
+  height: 124px;
+  position: relative;
+  width: 100%;
+  z-index: 4;
 }
 
 header nav {
