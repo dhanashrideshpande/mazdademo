@@ -85,3 +85,17 @@
     text-decoration : none;
     background-color: transparent;
 }
+.section.columns-container {
+    background-color: #f4f4f4;
+}
+.section.columns-container h4  {
+    font-size: var(--heading-font-size-m);
+    color: #101010;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+ }
