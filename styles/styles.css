@@ -289,3 +289,25 @@ main .section.highlight {
 .section.columns-container {
     background-color: #dedede;
 }
+.section-mazda h2 {
+    font-size: 20px;
+    font-style: normal;
+    line-height: 27px;
+    font-weight: bold;
+    color: #ffffff;
+    letter-spacing: 4px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 28px;
+}
+
+.section-mazda h5 {
+    font-size: 16px;
+    font-style: normal;
+    line-height: 28px;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    margin-right: -2%;
+    margin-left: -2%;
+}
