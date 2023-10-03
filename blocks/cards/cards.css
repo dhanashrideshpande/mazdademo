@@ -92,10 +92,20 @@
     font-size: var(--heading-font-size-m);
     color: #101010;
     text-align: center;
-    padding-top: 40px;
     padding-bottom: 20px;
     font-size: 22px;
     line-height: 26px;
     letter-spacing: .2em;
     text-transform: uppercase;
  }
+
+ .section.columns-container h5  {
+     font-size: var(--heading-font-size-m);
+     color: #101010;
+     text-align: center;
+     padding-bottom: 20px;
+     font-size: 14px;
+     line-height: 26px;
+     letter-spacing: .2em;
+     text-transform: uppercase;
+  }
