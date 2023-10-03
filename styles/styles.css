@@ -20,9 +20,13 @@
   --text-color: #000;
 
   /* fonts */
-  --body-font-family: roboto, roboto-fallback;
+ /* --body-font-family: roboto, roboto-fallback;
   --heading-font-family: var(--body-font-family);
-  --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
+  --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;*/
+
+  --body-font-family: mazda, mazda-fallback;
+    --heading-font-family: var(--body-font-family);
+    --fixed-font-family: "Mazda Type", helvetica, arial, sans-serif;
 
   /* body sizes */
   --body-font-size-m: 22px;
