@@ -52,7 +52,7 @@
     padding: 0px;
 }
 
-.carousel > div > div li{}
+.carousel > div > div li{
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
