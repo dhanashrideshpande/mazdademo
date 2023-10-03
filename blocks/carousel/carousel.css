@@ -32,7 +32,7 @@
   }
 }
 
-.carousel.block.carousel-2-cols h3 {
+.carousel > div > div h3 {
     color: rgb(16, 16, 16);
     font-family: "Mazda Type", helvetica, arial, sans-serif;
     font-feature-settings: "clig" 0, "liga" 0;
