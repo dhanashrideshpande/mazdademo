@@ -300,3 +300,15 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
+nav#nav {
+    height: 124px;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 45px;
+    position: relative;
+    width: 100%;
+}
+header nav .nav-brand img {
+    width: 90px;
+    height: auto;
+}
