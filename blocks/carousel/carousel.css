@@ -8,10 +8,6 @@
   flex-direction: column;
 }
 
-.carousel img {
-  width: 100%;
-}
-
 .carousel > div > div {
   order: 1;
 }
