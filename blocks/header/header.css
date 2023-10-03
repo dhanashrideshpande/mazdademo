@@ -59,7 +59,30 @@ header nav p {
 }
 
 header nav a:any-link {
-  color: currentcolor;
+    /*color: currentcolor;*/
+    float: right;
+    font-size: 1rem;
+    color: rgb(153, 153, 153);
+    font-family: "Mazda Type", helvetica, arial, sans-serif;
+    font-feature-settings: "clig" 0, "liga" 0;
+    font-size: 10px;
+    font-weight: 700;
+    height: 28px;
+    letter-spacing: 2px;
+    line-height: 28px;
+    list-style-position: outside;
+    padding-bottom: 12px;
+    padding-top: 10px;
+    text-decoration-color: rgb(153, 153, 153);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    text-transform: uppercase;
+    transition-delay: 0s, 0s, 0s;
+    transition-duration: 0.3s, 0.3s, 0.3s;
+    transition-property: color, background, border;
+    transition-timing-function: ease, ease, ease;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 /* hamburger */
