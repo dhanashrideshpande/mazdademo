@@ -1,6 +1,6 @@
 .carousel-container {
   width: 100%;
-  background-color: #000;
+  background-color: #fff;
 }
 
 .carousel > div {
@@ -70,7 +70,7 @@
 }
 
 .section.carousel-mazda.carousel-container h3 a , h2 a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
     background-color: rgba(0, 0, 0, 0);
     border-bottom-color: rgb(0, 0, 0);
