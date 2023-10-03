@@ -2,6 +2,7 @@
 
 main .hero-container > div {
   max-width: unset;
+  height: 100vh;
 }
   
 main .hero-container {
