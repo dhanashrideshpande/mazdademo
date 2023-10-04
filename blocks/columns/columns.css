@@ -1,4 +1,4 @@
-.columns-container {
+.cards5050 {
   margin: 0%;
   margin-top: 102vh;
   padding: 0%;
@@ -48,4 +48,6 @@
   display: flex;
   align-items: stretch;
   margin-bottom: 4rem;
+  max-width: 70%;
+  margin: auto;
 }
