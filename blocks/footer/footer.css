@@ -21,10 +21,6 @@ footer .footer p {
 }
 .footer.block a {
      text-decoration: none;
-     border-right-color: red;
-     border-right-style: double;
-     border-right-width: 0px;
-     box-sizing: border-box;
      color: rgb(153, 153, 153);
      cursor: pointer;
      font-size: 10px;
@@ -44,15 +40,6 @@ footer .footer p {
     border-image-slice: 100%;
     border-image-source: none;
     border-image-width: 1;
-    border-left-color: rgb(153, 153, 153);
-    border-left-style: none;
-    border-left-width: 0px;
-    border-right-color: rgb(153, 153, 153);
-    border-right-style: none;
-    border-right-width: 0px;
-    border-top-color: rgb(153, 153, 153);
-    border-top-style: none;
-    border-top-width: 0px;
     box-sizing: border-box;
     color: rgb(153, 153, 153);
     display: block;
@@ -65,12 +52,6 @@ footer .footer p {
     letter-spacing: 2px;
     line-height: 18px;
     margin-bottom: 28px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    padding-bottom: 0px;
-    padding-left: 0px;
-    padding-right: 0px;
-    padding-top: 0px;
+    padding :0px;
     vertical-align: baseline;
  }
