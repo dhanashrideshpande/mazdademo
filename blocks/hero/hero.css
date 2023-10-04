@@ -96,3 +96,29 @@ main .hero h6 a{
     text-decoration-color: rgb(0, 0, 0);
     text-transform: uppercase;
 }
+
+#embrace-every-unexpected-turn {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
+#the-2024-mazda-cx-30 {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  text-transform: uppercase;
+}
+
+main > .hero-container:nth-child(1) > .hero-wrapper > .hero > div > div > h6 {
+  position: absolute;
+  bottom: 15%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  text-transform: uppercase;
+}
