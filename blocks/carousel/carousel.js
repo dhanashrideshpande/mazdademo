@@ -1,7 +1,7 @@
- $('.carousel block').slick({
+ $('.carousel-wrapper>div').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
-        arrows: true, 
+        arrows: true,
         dots: true,
-        fade: true,
+        fade: false,
     });
