@@ -22,3 +22,4 @@
 # github.com/adobe/helix-home/issues and ask your question
 # there.
 User-agent: *
+#Disallow: /
